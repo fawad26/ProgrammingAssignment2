@@ -1,9 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## In this assignemnt we will try to make a programm, which cache the computation
-# of inverse of a matrix. Some time have computational very costly, problem due to
-# amount of data avaialble or due to the complexity of the model. Particularly when we have
+## In this assignemnt we will try to make a program, which will cache the computation
+# of inverse of a matrix. Some time, we have computation, very costly, due to
+# amount of data avaialble or due to the complexity of the model. Particularly when we
 #compute values repeatedly, the cost of computation increase. So instead of applying function
 # again to calculate a value, we just store the calculated value in cache and recal when needed.
 
